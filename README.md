@@ -1,5 +1,5 @@
 # Machine Learning Engineer Nanodegree
-# Model Supervised Learning
+# Supervised Learning
 ## Project: Finding donors from census income dataset 
 
 ### Problem Statement
