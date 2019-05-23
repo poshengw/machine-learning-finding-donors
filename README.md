@@ -6,7 +6,7 @@
 
 - Apply **supervised learning** techniques and an analytical mind on data collected for the [U.S. census](https://archive.ics.uci.edu/ml/datasets/Census+Income) to help charity identify people most likely to donate to their cause
 
--- Data Explore.
+- Data Explore.
 
 - **Transforming skewed continuous features:** For highly-skewed feature distributions, it is common practice to apply a logarithmic transformation on the data so that the very large and very small values do not negatively affect the performance of a learning algorithm. Algorithms can be sensitive to such distributions of values and can underperform if the range is not properly normalized. Using a logarithmic transformation significantly reduces the range of values caused by outliers. It changes the shape of feature’s distribution. 
 
