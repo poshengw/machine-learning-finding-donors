@@ -3,7 +3,11 @@
 ## Project: Finding donors from census income dataset 
 
 ### Problem Statement
-1. Performed several supervised algorithms to accurately model individuals' income using data collected from the 1994 U.S. Census (https://archive.ics.uci.edu/ml/datasets/Census+Income). The goal is to construct a model that accurately predicts whether an individual makes more than $50,000.
+
+- Apply supervised learning techniques and an analytical mind on data collected for the U.S. census to help CharityML (a fictitious charity organization) identify people most likely to donate to their cause
+
+
+Performed several supervised algorithms to accurately model individuals' income using data collected from the 1994 U.S. Census (https://archive.ics.uci.edu/ml/datasets/Census+Income). The goal is to construct a model that accurately predicts whether an individual makes more than $50,000.
 2. Optimized the algorithm to best model the data.
 3. Data preprocessing: no invalid or missing entries we must deal with, however, there are some qualities about certain features that must be adjusted. This preprocessing can help tremendously with the outcome and predictive power of nearly all learning algorithms. (Step 4,5,6 )
 4. Transforming Skewed Continuous Features. For highly-skewed feature distributions, it is common practice to apply a logarithmic transformation on the data so that the very large and very small values do not negatively affect the performance of a learning algorithm. Algorithms can be sensitive to such distributions of values and can underperform if the range is not properly normalized. Using a logarithmic transformation significantly reduces the range of values caused by outliers. It changes the shape of feature’s distribution. 
