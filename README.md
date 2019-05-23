@@ -1,4 +1,5 @@
-# Machine Learning Engineer Nanodegree - Supervised Learning
+# Machine Learning Engineer Nanodegree
+# Supervised Learning
 ## Project: Finding donors from census income dataset 
 
 ### Project Summary:
