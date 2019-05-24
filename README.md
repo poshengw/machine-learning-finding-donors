@@ -7,21 +7,14 @@
 - Apply **supervised learning** techniques and an analytical mind on data collected for the [U.S. census](https://archive.ics.uci.edu/ml/datasets/Census+Income) to help charity identify people most likely to donate to their cause
 
 - **Data Explore**
-
 - **Transforming skewed continuous features:** <br/>
 For highly-skewed feature distributions, it is common practice to apply a logarithmic transformation on the data so that the very large and very small values do not negatively affect the performance of a learning algorithm. Algorithms can be sensitive to such distributions of values and can underperform if the range is not properly normalized. Using a logarithmic transformation significantly reduces the range of values caused by outliers. It changes the shape of feature’s distribution. 
-
 - **Scaling on numerical features:** <br/>
 Applying a scaling to the data does not change the shape of each feature's distribution. however, normalization ensures that each feature is treated equally when applying supervised learners. Note that once scaling is applied, observing the data in its raw form will no longer have the same original meaning, as exampled below.
-
 - Converting non-numeric features to numeric by **one-hot encoding**. It creates dummy variable for each possible category. 
-
 - Performed **DecisionTreeClassifier**, **LogisticRegression** and **AdaBoostClassifier** algorithm.
-
 - Performed **GridSearch** technique for finding the optimal parameters.
-
 - Explored AdaboostClassifier feature importances for Feature Selection.
-
 - **F-beta score** as a metric that consider both precision and recall.
 
 
