@@ -15,7 +15,7 @@ Applying a scaling to the data does not change the shape of each feature's distr
 - Performed **DecisionTreeClassifier**, **LogisticRegression** and **AdaBoostClassifier** algorithm.
 - Performed **GridSearch** technique for finding the optimal parameters.
 - Explored AdaboostClassifier feature importances for Feature Selection.
-- **F-beta score** as a metric that consider both precision and recall.
+- **F-beta score** as a metric that considers both precision and recall.
 
 
 ### Data:
